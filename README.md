@@ -30,6 +30,7 @@
 - 累计发表高水平论文 30+ 篇，IEEE 汇刊 10+ 篇，ESI 高被引论文 5+ 篇
 - 授权发明专利 20+ 项
 - 研究方向：数字取证、多媒体安全、AIGC 溯源、Deepfake 检测
+- 邮箱：fengding@ncu.edu.cn
 
 ---
 
@@ -52,31 +53,45 @@
 ## 🖥️ 科研平台与基础设施
 - **GPU 服务器集群**：8 台高性能 GPU 计算节点 + 多台通用 Linux 服务器
 - **数据资源**：数十万级图像/视频专题数据库，覆盖主流伪造图像与多模态数据集
-- **统一运维管理**：基于 Cockpit 实现服务器集中监控、内网资产梳理与标准化运维
 - 依托平台：数据安全技术江西省重点实验室、CERNET 江西主节点网络环境
 - 支撑能力：大规模深度学习训练、消融实验、跨模态语义分析、系统研发与验证
 
 ---
+## 📝 代表性论文
 
-## 📦 仓库规范
-本 GitHub 组织用于统一管理实验室科研成果与工程项目：
-- `paper-*`：论文复现、实验代码、开源工具
-- `project-*`：在研科研项目、应用系统、算法原型
-- `tool-*`：取证、检测、图像处理、数据分析工具集
-- `docs`：实验室规范、技术文档、使用指南
-- `infrastructure`：服务器配置、资产管理、运维相关
+### 期刊论文（IEEE 汇刊 / SCI 权威期刊）
+[1] Ding, F., Zhu, G.*, Li, Y., Zhang, X., Atrey, P. K., & Lyu, S. Anti-Forensics for Face Swapping Videos via Adversarial Training. *IEEE TMM*, 2022.  
+[2] Ding, F., Wu, H., Zhu, G.*, & Shi, Y. METEOR: Estimation of Resampling Rate via CNN. *IEEE TCSVT*, 2020.  
+[3] Ding, F., Shen, Z., Zhu, G.*, Kwong, S., Zhou, Y., & Lyu, S. Exs-GAN: Anti-Forensics Image Synthesis. *IEEE TCYB*, 2023.  
+[4] Ding, F., Fan, B., Shen, Z.*, Yu, K., & Wan, S. Securing Facial Bioinformation by Eliminating Adversarial Perturbations. *IEEE TII*, 2023.  
+[5] Ding, F., Yu, K.*, Gu, Z., Li, X., & Shi, Y. Perceptual Enhancement for Autonomous Vehicles. *IEEE TITS*, 2022.  
+[6] Guo, Z., Yu, K., Jolfaei, A., & Ding, F.*. Fuz-Spam: Fuzzy Detection of Spammers in IoT. *IEEE TFS*, 2022.  
+[7] Shen, Z., Ding, F.*, & Yu, K. DeformableGAN: Medical Image Generation. *IEEE TNSE*, 2023.  
+[8] Fan, B., Ding, F.*, Zhu, G., & Lyu, S. High-Quality Anti-Forensics DeepFakes. *ACM TOMM*, 2025.  
+
+### 会议论文（CCF A/B/C 类）
+[1] He, X., Ye, W., & Ding, F.*. VLForgery Face Triad: Detection, Localization and Attribution. *NeurIPS 2025* (CCF A).  
+[2] Ye, W., He, X., & Ding, F.*. Decoupling Forgery Semantics for Generalizable Deepfake Detection. *BMVC 2024* (CCF C).  
+[3] Ding, F., Zhang, J., & He, X.*. FairAdapter: AI-Generated Image Detection with Fairness. *ICASSP 2025* (CCF B).  
+[4] Zhu, X., Lin, B., & Ding, F.*. TMFD: Two-Stage Meta-Learning for DeepFake Detection. *IJCB 2024* (CCF C).  
+[5] Fan, B., Hu, S., & Ding, F.*. Black-box Anti-forensics DeepFakes. *ICASSP 2024* (CCF B).  
 
 ---
 
-## 📝 代表性成果
-- 论文发表于 NeurIPS、IEEE TCYB、TMM、TITS、TNSE、TII 等顶刊顶会
-- 主持国家自然科学基金地区项目等多项国家级课题
-- 技术应用于图像真实性校验、人脸安全、内容溯源等场景
+
+## 🎓 毕业生去向
+实验室培养质量突出，毕业生去向优质、发展前景广阔：
+- 前往**美国及国内顶尖高校**攻读博士学位
+- 成功考取**北京市**等地区公务员
+- 入职**江西、浙江**等地事业单位
+- 入职**中国银行成都分行软件开发部**
+- 入职**中国电信江西分公司研发部门**
+- 进入互联网、金融、通信、国企等优质单位从事研发与技术管理工作
 
 ---
 
 ## 🤝 团队成员
-实验室教师、博士/硕士研究生、科研助理及国内外合作研究者。
+待更新...
 
 ---
 
